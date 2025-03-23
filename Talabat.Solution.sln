@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.Repository", "Talab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.Serices", "Talabat.Serices\Talabat.Serices.csproj", "{D8938121-E166-4D4B-8FD9-CC6060846047}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminDashBoard", "AdminDashBoard\AdminDashBoard.csproj", "{3DA415EF-07B8-46A3-87D9-827573B2C2F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D8938121-E166-4D4B-8FD9-CC6060846047}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8938121-E166-4D4B-8FD9-CC6060846047}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8938121-E166-4D4B-8FD9-CC6060846047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA415EF-07B8-46A3-87D9-827573B2C2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA415EF-07B8-46A3-87D9-827573B2C2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA415EF-07B8-46A3-87D9-827573B2C2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA415EF-07B8-46A3-87D9-827573B2C2F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
